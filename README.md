@@ -23,7 +23,7 @@ We need to create a virtual enviroment to save all we need to make our app in th
 Then we need to activate it. 
 
 # load a model
-You need to save the output of your model which is aready trained in a desired direction. In this case the output in the pythorch output called ##covid_resnet18_epoch30.pt. Then, you need to have your model in a same direction you have app.py. The name of my model file is model_conv.
+You need to save the output of your model which is aready trained in a desired direction. In this case the output in the pythorch output called covid_resnet18_epoch30.pt which is the output of another respotirary I made. Since this file was too big to be uploaded here, I was not able to upload here. Then, you need to have your model in a same direction you have app.py. The name of my model file is model_conv.
 
-# dataset
+# Dataset
 We also need to have our images in our desired location or upload it the http://127.0.0.1:5000/ to see the prediction.
