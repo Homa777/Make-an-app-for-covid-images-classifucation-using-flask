@@ -7,7 +7,7 @@ Deployment is an essential step in the machine learning workflow. It is a step w
 
 But how can we create the model as an application? We can build an Application Programming Interface (API). With that, we can access the model from everywhere, whether it is on the mobile application or even on the web application. In Python, there’s a library that can help us to build an API. It’s called Flask.
 
-This article will show you how to build a REST API for our machine learning model using Flask. Without further ado, let’s get started!
+This respotirary will show you how to build a REST API for our machine learning model using Flask. Without further ado, let’s get started!
 
 REST API
 Before we get into the implementation, let me explain REST API. REST API stands for Representational State Transfer Application Programming Interface.
