@@ -14,7 +14,11 @@ Before we get into the implementation, let me explain REST API. REST API stands 
 
 The mechanism of REST API looks like this. Let’s say you want to search cat photos on Google. The first step is to send a request to Google by giving them a query like ‘cat photos’. Then, the server will send you a response to your computer, which is the compilation of cat photos.
 
-That’s all about the REST API! It’s the way to communicate between you as the client by requesting something to the server, and then the server will send you the response. Here is an illustration of how the REST API works.
+That’s all about the REST API! It’s the way to communicate between you as the client by requesting something to the server, and then the server will send you the response. 
+
+# Usage
+
+Clone repo
 
 # Create a virtual enviroment 
 
