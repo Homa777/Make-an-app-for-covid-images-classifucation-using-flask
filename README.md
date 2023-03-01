@@ -20,7 +20,7 @@ That’s all about the REST API! It’s the way to communicate between you as th
 
 Clone repo
 
-https://github.com/Homa777/Make-an-app-for-covid-images-classifucation-using-flask.git
+git clone https://github.com/Homa777/Make-an-app-for-covid-images-classifucation-using-flask.git
 
 Create a virtual enviroment 
 
@@ -36,4 +36,4 @@ conda activate yourenvname
 You need to save the output of your model which is already trained in a desired direction. In this case, the output in the pytorch output called covid_resnet18_epoch30.pt which is the output of another respotirary I made. Since this file was too big to be uploaded here, I was not able to upload here. Then, you need to have your model in a same direction you saved your python file named "app.py". The name of my model file is model_conv.
 
 # Dataset
-We also need to have our images in our desired location or upload it the http://127.0.0.1:5000/ to see the prediction.
+We also need to have our images in our desired location or upload it through http://127.0.0.1:5000/ to see the prediction.
