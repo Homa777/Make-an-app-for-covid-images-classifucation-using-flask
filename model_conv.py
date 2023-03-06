@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 19 21:35:16 2022
 
-@author: Home
+@author: Homa
 """
 import torchvision
 model_conv = torchvision.models.resnet18(pretrained=True)
