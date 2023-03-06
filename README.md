@@ -36,7 +36,7 @@ conda activate yourenvname
 
 ```
 # load a model
-You need to save the output of your model which is already trained in a desired direction. In this case, the output in the pytorch output called covid_resnet18_epoch30.pt which is the output of another respotirary I made. Since this file was too big to be uploaded here, I was not able to upload here. Then, you need to have your model in a same direction you saved your python file named "app.py". The name of my model file is model_conv.
+You need to save the output of your model which is already trained in a desired direction. In this case, the output in the pytorch output called covid_resnet18_epoch30.pt which is the output of another respotirary I made (Covid-19-classification_by_pytorch). Since this file was too big to be uploaded here, I was not able to upload here. Then, you need to have your model in a same direction you saved your python file named "app.py". The name of my model file is model_conv.
 
 # Dataset
 ```
