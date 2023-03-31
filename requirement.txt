@@ -1,6 +1,23 @@
-
-# Flask
-# torch
-# PIL import 
-# torchvision 
-# torch.autograd
+Flask
+torch
+PIL  
+torchvision 
+torch.autograd
+future
+torch.nn 
+torch.optim 
+numpy 
+matplotlib
+copy
+pickle os
+time
+import zipfile as zf
+pandas as pd
+matplotlib
+numpy
+nltk
+seaborn
+cv2
+numpy
+glob
+csv
